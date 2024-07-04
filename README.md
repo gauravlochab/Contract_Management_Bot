@@ -53,10 +53,4 @@ The Contract Management Chatbot is designed to analyze and extract information f
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
 
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or inquiries, please contact [Your Name] at [Your Email].
