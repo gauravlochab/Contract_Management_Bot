@@ -1,0 +1,13 @@
+tiktoken
+faiss-cpu
+langchain
+PyPDF2
+streamlit
+openai==0.28.1
+pypdf
+streamlit-extras
+altair<5
+pymongo
+pdfplumber
+flask
+boto3

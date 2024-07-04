@@ -1,0 +1,19 @@
+[theme]
+
+# Primary accent for interactive elements (using the light blue)
+primaryColor = '#f7c6be'
+
+# Background color for the main content area (using the dark blue for contrast)
+backgroundColor = '#fcfefe'
+
+# Background color for sidebar and most interactive widgets (using light blue)
+secondaryBackgroundColor = '#bed6fd'
+#
+# Color used for almost all text (using white for contrast)
+textColor = '#8a99d7'
+
+# Font family for all text in the app, except code blocks
+# Assuming the platform allows specifying external fonts
+#haye
+fontHeadings = "Montserrat"
+fontBody = "Lato"
