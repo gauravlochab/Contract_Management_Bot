@@ -24,7 +24,7 @@ The Contract Management Chatbot is designed to analyze and extract information f
 
     ```sh
     git clone <repository_url>
-    cd DMS-Self
+    cd Contract_Management_Bot
     ```
 
 2. Install the required packages:
