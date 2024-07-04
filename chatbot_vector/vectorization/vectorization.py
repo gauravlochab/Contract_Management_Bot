@@ -56,7 +56,7 @@ os.environ["OPENAI_API_VERSION"] = "2023-07-01-preview"
 
 
 s3 = boto3.resource('s3')
-bucket_name = 'phub-dms'
+bucket_name = 'dummy-bucket-name'
     
 
 
