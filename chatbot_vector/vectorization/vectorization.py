@@ -49,10 +49,10 @@ ATLAS_VECTOR_SEARCH_INDEX_NAME = "vector_index"
 
 MONGODB_COLLECTION = client[DB_NAME][COLLECTION_NAME]
 
-os.environ['OPENAI_API_KEY'] ="3ef39236f28c42ad85ee93369cc454e8"
+os.environ['OPENAI_API_KEY'] ="dummy-key"
 os.environ["OPENAI_API_TYPE"] = "azure"
 os.environ["OPENAI_API_BASE"] = "https://pn-llm-1.openai.azure.com/"
-os.environ["OPENAI_API_VERSION"] = "2023-07-01-preview"
+os.environ["OPENAI_API_VERSION"] = "dummy-version"
 
 
 s3 = boto3.resource('s3')
