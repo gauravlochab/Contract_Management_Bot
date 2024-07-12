@@ -45,7 +45,7 @@ openai_api_key = os.environ.get('OPENAI_API_KEY')
 print("openai version",openai.__version__)
 # import getpass
 
-MONGODB_ATLAS_CLUSTER_URI = 'mongodb+srv://gaurav_peritushub:4fx7xenS71Ow8hSI@cluster0-poc1.083qk.mongodb.net/'
+MONGODB_ATLAS_CLUSTER_URI = 'dummy mongo uri'
 from pymongo import MongoClient
 
 # initialize MongoDB python client
